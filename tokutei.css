@@ -1,0 +1,45 @@
+@import url("all.css");
+/*コンテンツ*/
+#contents{
+	color: #333333;
+	font: 0.75em/1.5em Verdana, "ＭＳ Ｐゴシック", Arial;
+	text-align: left;
+}
+/*パンくずリスト*/
+#contents .pan {
+	margin: 0px 0px 5px;
+	padding: 0px;
+	text-align: left;
+}
+/*タイトル*/
+#contents h2 {
+	font-size: 1.2em;
+	color: #FFFFFF;
+	background: url(images/home/newitem.gif) no-repeat;
+	line-height: 45px;
+	text-align: left;
+	padding-left: 10px;
+}
+/*テーブル*/
+#contents th {
+	background: #00B7EE;
+	color: #FFFFFF;
+	text-align: center;
+	border-top: 1px solid #000000;
+	border-left: 1px solid #000000;
+	font-size: 16px;
+}
+#contents td {
+	border-top: 1px solid #000000;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	font-size: 12px;
+	line-height: 14px;
+}
+
+#contents table p {
+	margin: 10px;
+}
+#contents table {
+	border-bottom: 1px solid #000000;
+}

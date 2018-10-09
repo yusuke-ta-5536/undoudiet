@@ -1,0 +1,201 @@
+/*ボディ*/
+body {
+	font-family: "ＭＳ Ｐゴシック", Osaka, "ヒラギノ角ゴ Pro W3", sans-serif;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+img {
+	border-style: none;
+}
+/*リンク*/
+a:link{
+	color: #000000;
+}
+a:hover {
+	color: #CCCCCC;
+	text-decoration: none;
+}
+a:visited {
+	color: #000000;
+}
+
+/*ラッパー*/
+#wrpper {
+	background: #FFFFFF;
+	margin: 0px auto;
+	padding: 0px;
+	width: 756px;
+	height: auto;
+	text-align: left;
+}
+/*ヘッダー*/
+#header {
+	background: url(images/all/head.gif) no-repeat;
+	margin: 0px;
+	padding: 0px;
+	height: 100px;
+}
+#header h1 {
+	font-size: 0.75em;
+	font-weight: bold;
+	margin: 0px;
+	padding-top: 20px;
+	padding-left: 18px;
+	color: #FFFFFF;
+}
+em {
+	visibility: hidden;
+}
+
+
+#header img {
+	padding: 0px 0px 0px 7px;
+}
+#menu li {
+	list-style: none;
+	float: left;
+}
+/*メニュー*/
+#menu {
+	padding-left: 0px;
+	font-size: 0.75em;
+	font-weight: bold;
+	margin: 0px;
+}
+#menu li a {
+	text-decoration: none;
+	background: #00CCFF;
+	line-height: 30px;
+	display: block;
+	width: 126px;
+	color: #FFFFFF;
+	clear: both;
+}
+#menu li#tn1 a {
+	background: url(images/all/top.gif);
+}
+#menu li#tn2 a {
+	background: url(images/all/souryou.gif);
+}
+#menu li#tn3 a {
+	background: url(images/all/kessai.gif);
+}
+#menu li#tn4 a {
+	background: url(images/all/cart.gif);
+}
+#menu li#tn5 a {
+	background: url(images/all/contact.gif);
+}
+#menu li#tn6 a {
+	background: url(images/all/map.gif);
+}
+
+
+/*サイドナビ*/
+#wrpper #sidewrap {
+	float: left;
+	width: 164px;
+	margin: 0px 0px 25px;
+	padding: 0px;
+	background: #CCCCCC;
+}
+#sidewrap #souryou {
+	text-align: left;
+	margin: 0px;
+	padding: 5px 5px 5px 15px;
+}
+#sidewrap #souryou1 {
+	text-align: left;
+	margin: 0px;
+	padding: 5px 5px 5px 15px;
+}
+#sidewrap #sidenavi {
+	margin: 30px 0px 0px;
+	padding: 0px;
+}
+#sidewrap #sidenavi h3 {
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+#sidewrap #sidenavi ul {
+	font-size: 0.75em;
+	list-style: none;
+	padding: 20px 0px 20px 15px;
+	margin: 0px;
+}
+#sidewrap #sidenavi li {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#sidewrap #sidenavi li a {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+#sidewrap #aisatu {
+	padding: 0px;
+	border-right: 1px solid #0F7BC4;
+	border-bottom: 1px solid #0F7BC4;
+	margin-top: 5px;
+}
+#sidewrap #aisatu p {
+	font-size: 0.75em;
+	margin: 10px;
+}
+
+#sidewrap #aisatu h3 {
+	line-height: 27px;
+	background: url(images/all/menubar.gif);
+	font-size: 0.75em;
+	color: #FFFFFF;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+#wrpper #contents {
+	float: right;
+	width: 564px;
+	margin-top: 30px;
+	margin-bottom: 25px;
+	height: auto;
+}
+#wrpper #footer {
+	clear: both;
+	padding-top: 0px;
+	margin-top: 0px;
+	background: url(images/all/foot.gif) no-repeat;
+	height: 35px;
+}
+#footer ul {
+	font-size: 0.75em;
+	list-style: none;
+	text-align: left;
+	padding-top: 11px;
+	padding-bottom: 13px;
+	margin: 0px;
+}
+#footer li {
+	display: inline;
+	background: url(images/all/icon03.gif) no-repeat left center;
+	padding-right: 12px;
+	padding-left: 12px;
+	color: #FFFFFF;
+}
+#footer li a {
+	color: #FFFFFF;
+}
+
+
+
+address {
+	font-size: 0.75em;
+	font-style: normal;
+	text-align: left;
+	color: #000000;
+	width: 744px;
+	margin-left: 6px;
+}

@@ -1,0 +1,124 @@
+@import url("all.css");
+/*コンテンツ*/
+#contents{
+	color: #333333;
+	font: 0.75em/1.5em Verdana, "ＭＳ Ｐゴシック", Arial;
+	text-align: left;
+}
+/*パンくずリスト*/
+#contents .pan {
+	margin: 0px 0px 5px;
+	padding: 0px;
+	text-align: left;
+}
+/*タイトル*/
+#contents h2 {
+	font-size: 1.2em;
+	color: #FFFFFF;
+	background: url(images/home/newitem.gif) no-repeat;
+	line-height: 45px;
+	text-align: left;
+	padding-left: 10px;
+}
+/*見出し*/
+#contents h4 {
+	color: #000000;
+	margin: 0px;
+	font-size: 1.4em;
+	padding: 0px;
+	font-weight: bold;
+}
+/*本文*/
+#contents p {
+	margin: 10px 23px;
+}
+
+#contents h5 {
+	color: #FF0000;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+strong {
+	font-weight: bold;
+	color: #FF0000;
+}
+
+
+.blue {
+	color: #00B7EE;
+	font-weight: bold;
+}
+/*テーブル*/
+#contents table {
+	margin-left: 23px;
+	margin-bottom: 10px;
+}
+#contents table th {
+	background: #CCCCCC;
+	font-size: 12px;
+}
+#contents table td {
+	text-align: right;
+	font-size: 12px;
+}
+/*お買い物ガイド*/
+#contents #guide1 {
+	float: left;
+	width: 280px;
+	text-align: left;
+	border-left: 1px solid #33FFFF;
+	border-right: 1px dotted #33FFFF;
+	border-bottom: 1px solid #33FFFF;
+}
+#contents #guide2 {
+	float: right;
+	width: 280px;
+	text-align: left;
+	border-right: 1px solid #33FFFF;
+	border-bottom: 1px solid #33FFFF;
+}
+#contents #guide1 h4 {
+	margin-left: 23px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 14px;
+	color: #000000;
+}
+#contents #guide1 .bun {
+	margin: 5px 23px;
+}
+#contents #guide1 img {
+	margin-left: 23px;
+	margin-bottom: 5px;
+}
+#contents #guide1 table {
+	margin-left: 23px;
+}
+#contents #guide1 table th {
+	background: #CCCCCC;
+}
+#contents #guide1 table td {
+	text-align: right;
+}
+#contents #guide2 h4 {
+	margin-left: 23px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 14px;
+	color: #000000;
+}
+#contents #guide2 .bun {
+	margin: 5px 23px;
+}
+#contents #guide2 img {
+	margin-left: 23px;
+	margin-bottom: 5px;
+}#contents .guide {
+	color: #FFFFFF;
+	background: url(images/home/newitem.gif) no-repeat;
+	margin: 0px;
+	font-size: 14px;
+	line-height: 45px;
+	padding: 0px;
+	text-align: center;
+}

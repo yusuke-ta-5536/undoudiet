@@ -1,0 +1,103 @@
+/* CSS Document */
+@import url("all.css");
+#contents{
+	color: #333333;
+	font: 12px/1.5em Verdana, "ÇlÇr ÇoÉSÉVÉbÉN", Arial;
+}
+#contents .pan {
+	margin: 0px 0px 5px;
+	padding: 0px;
+	text-align: left;
+}#contents h2 {
+	font-size: 1.2em;
+	color: #FFFFFF;
+	background: url(images/home/newitem.gif) no-repeat;
+	line-height: 45px;
+	text-align: left;
+	padding-left: 20px;
+}
+/*ÉyÅ[ÉW*/
+strong {
+	font-weight: bold;
+	color: #0066FF;
+}
+#contents h5 {
+	margin: 0px;
+	padding: 0px;
+	color: #000000;
+	font-size: 12px;
+}
+#contents ul {
+	margin: 0px 0px 0px 40px;
+	padding: 0px;
+	color: #000000;
+}
+
+/*Ç®îÉÇ¢ï®ÉKÉCÉh*/
+#contents #guide1 {
+	float: left;
+	width: 280px;
+	text-align: left;
+	border-left: 1px solid #33FFFF;
+	border-right: 1px dotted #33FFFF;
+	border-bottom: 1px solid #33FFFF;
+}
+#contents #guide2 {
+	float: right;
+	width: 280px;
+	text-align: left;
+	border-right: 1px solid #33FFFF;
+	border-bottom: 1px solid #33FFFF;
+}
+#contents #guide1 h4 {
+	margin-left: 23px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 14px;
+	color: #000000;
+}
+#contents .mokuji {
+	font-size: 16px;
+	border-bottom: 1px solid #000000;
+	border-left: 5px solid #000000;
+	padding-left: 5px;
+}
+
+#contents #guide1 .bun {
+	margin: 5px 23px;
+}
+#contents #guide1 img {
+	margin-left: 23px;
+	margin-bottom: 5px;
+}
+#contents #guide1 table {
+	margin-left: 23px;
+}
+#contents #guide1 table th {
+	background: #CCCCCC;
+}
+#contents #guide1 table td {
+	text-align: right;
+}
+#contents #guide2 h4 {
+	margin-left: 23px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 14px;
+	color: #000000;
+}
+#contents #guide2 .bun {
+	margin: 5px 23px;
+}
+#contents #guide2 img {
+	margin-left: 23px;
+	margin-bottom: 5px;
+}#contents .guide {
+	color: #FFFFFF;
+	background: url(images/home/newitem.gif) no-repeat;
+	margin: 0px;
+	font-size: 14px;
+	line-height: 45px;
+	padding: 0px;
+	text-align: center;
+}

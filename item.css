@@ -1,0 +1,221 @@
+@import url("all.css");
+#contents{
+	color: #333333;
+	font: 12px/1.5em Verdana, "ÇlÇr ÇoÉSÉVÉbÉN", Arial;
+}
+#contents .pan {
+	margin: 0px 0px 5px;
+	padding: 0px;
+	text-align: left;
+}
+/*å©èoÇµ*/
+#contents h2 {
+	font: bold normal 24px "ÇlÇr ÇoÉSÉVÉbÉN", Osaka, "ÉqÉâÉMÉmäpÉS Pro W3";
+	color: #FF9900;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	margin: 0px;
+}
+/*è§ïiÉuÉçÉbÉN*/
+#contents .price {
+	color: #FF0000;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#contents .headimg {
+	float: left;
+	padding-bottom: 30px;
+}
+#contents .syouhinmei {
+	text-align: center;
+	margin-top: 20px;
+	font-size: 20px;
+}
+/*è§ïiê‡ñæ*/
+#contents .midashihead {
+	clear: both;
+	color: #000000;
+	border-left: 5px solid #000000;
+	font-size: 20px;
+	padding: 0px 0px 0px 10px;
+	margin: 0px 0px 20px 20px;
+	line-height: 40px;
+	border-bottom: 1px solid #000000;
+}
+#contents .midashiimg {
+	clear: both;
+}
+
+#contents .midashi {
+	color: #000000;
+	border-left: 5px solid #000000;
+	font-size: 20px;
+	padding: 0px 0px 0px 10px;
+	margin: 0px 0px 20px 20px;
+	line-height: 40px;
+	border-bottom: 1px solid #000000;
+}
+#contents .setumei {
+	margin: 20px;
+	font-size: 14px;
+}
+#contents .hitooshi {
+	color: #FF6600;
+	font-size: 20px;
+	text-align: center;
+	margin: 40px 20px;
+	line-height: 25px;
+}
+/*â∫ÉJÅ[Égïîï™*/
+#wrpper #contents #item-cart {
+	margin: 30px auto;
+	border: 2px solid #0066FF;
+	width: 520px;
+	font-size: 12px;
+	line-height: 18px;
+}
+#wrpper #contents #item-cart h3 {
+	margin: 5px;
+	line-height: 20px;
+	font-size: 18px;
+}
+#wrpper #contents #item-cart .red {
+	color: #FF0000;
+	font-weight: normal;
+	font-size: 14px;
+}
+#wrpper #contents #item-cart .inline-left .font-20 {
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+#wrpper #contents #item-cart img {
+	padding: 5px;
+}
+/*è§ïiè⁄ç◊*/
+#contents #item-detail {
+	border: 1px solid #33FFFF;
+	margin: 0px 0px 10px;
+	clear: both;
+}
+#contents #item-detail .spec {
+	font-size: 14px;
+	margin: 20px;
+}
+/*ëºÇÃè§ïiÇ÷óUì±*/
+#contents .block1 {
+	width: 130px;
+	margin: 4px;
+	border: 1px solid #99FF00;
+	height: 140px;
+	float: left;
+}
+#contents #other1 {
+	height: 160px;
+}
+#contents .img {
+	padding: 0px;
+	margin: 10px 0px;
+	text-align: center;
+}
+#contents .itembun {
+	margin: 5px;
+	padding: 0px;
+}
+
+/*Ç®îÉÇ¢ï®ÉKÉCÉh*/
+#contents #guide1 {
+	float: left;
+	width: 280px;
+	text-align: left;
+	border-left: 1px solid #33FFFF;
+	border-right: 1px dotted #33FFFF;
+	border-bottom: 1px solid #33FFFF;
+}
+#contents #other2 {
+	height: 320px;
+}
+
+#contents .cart {
+	text-align: center;
+}
+strong {
+	font-weight: bold;
+	color: #FF0000;
+}
+
+
+#contents #guide2 {
+	float: right;
+	width: 280px;
+	text-align: left;
+	border-right: 1px solid #33FFFF;
+	border-bottom: 1px solid #33FFFF;
+}
+#contents #guide1 h4 {
+	margin-left: 23px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 14px;
+	color: #000000;
+}
+#contents #guide1 .bun {
+	margin: 5px 23px;
+}
+#contents #guide1 img {
+	margin-left: 23px;
+	margin-bottom: 5px;
+}
+#contents #guide1 table {
+	margin-left: 23px;
+}
+#contents #guide1 table th {
+	background: #CCCCCC;
+}
+#contents #guide1 table td {
+	text-align: right;
+}
+#contents #guide2 h4 {
+	margin-left: 23px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 14px;
+	color: #000000;
+}
+#contents #guide2 .bun {
+	margin: 5px 23px;
+}
+
+
+#contents #guide2 img {
+	margin-left: 23px;
+	margin-bottom: 5px;
+}
+#contents .guide {
+	color: #FFFFFF;
+	background: url(images/home/newitem.gif) no-repeat;
+	margin: 0px;
+	font-size: 14px;
+	line-height: 45px;
+	padding: 0px;
+	text-align: center;
+	clear: both;
+}
+#contents .setumei img {
+	float: right;
+}
+#contents #to-top {
+	clear: both;
+	margin-left: 5px;
+}
+#contents .setumei2{
+	margin: 20px;
+	font-size: 14px;
+	clear:both
+}
+#contents .setumei2 img{
+	float: right;
+}

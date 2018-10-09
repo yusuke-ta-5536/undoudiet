@@ -1,0 +1,106 @@
+@import url("all.css");
+/*トップページコンテンツ*/
+#contents .headimg {
+	margin: 0px 0px 10px;
+	padding: 0px;
+}
+/*新商品*/
+#contents #newitem {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	width: 564px;
+}
+#contents #newitem h2 {
+	font-size: 0.9em;
+	line-height: 45px;
+	color: #FFFFFF;
+	margin: 0px;
+	padding: 0px 0px 0px 10px;
+	background: url(images/home/newitem.gif);
+}
+#newitem .block .img {
+	margin: 0px;
+	padding: 10px;
+	float: left;
+}
+#newitem .block h3 {
+	font-size: 0.75em;
+	font-weight: bold;
+	color: #000000;
+	margin: 0px;
+	padding: 10px 0px 3px;
+}
+#newitem .block h4 {
+	margin: 0px;
+	padding: 0px 0px 3px;
+	color: #FF0000;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+#newitem .block p {
+	font-size: 0.75em;
+	margin: 0px;
+	padding: 0px 10px 5px 0px;
+	line-height: 15px;
+}
+#newitem .block .link {
+	background: url(images/home/point.gif) no-repeat 100px 2px;
+	margin: 0px;
+	padding: 5px 0px 0px 120px;
+}
+#newitem .block {
+	height: 120px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border: 1px solid #CCCCCC;
+}
+/*最新情報*/
+#contents #info {
+	margin: 0px;
+	padding: 0px;
+	float: right;
+	width: 242px;
+}
+#contents #info h4 {
+	line-height: 25px;
+	color: #000000;
+	margin: 0px;
+	padding: 0px 0px 0px 10px;
+	font-size: 0.9em;
+	border-bottom: 2px solid #339933;
+	border-left: 5px solid #339933;
+}
+#contents #info .block {
+	height: 140px;
+	border-bottom: 1px dashed #999999;
+	border-left: 1px dashed #999999;
+}
+
+#contents #info .saisin {
+	font-size: 0.75em;
+	margin: 0px;
+	padding: 10px 5px;
+	border-bottom: 1px dotted #000000;
+}
+#contents #info .ureimg {
+	margin: 0px;
+	padding: 5px 10px;
+	float: left;
+}
+#contents #info h5 {
+	font-weight: bold;
+	font-size: 1em;
+	margin: 10px 5px 5px 10px;
+	padding: 5px;
+	background: #339933;
+	color: #FFFFFF;
+	width: 30px;
+}
+#contents #info .syouhin {
+	font-size: 0.75em;
+	line-height: 120%;
+	margin: 0px;
+	padding: 30px 10px 10px;
+}
